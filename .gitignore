@@ -80,6 +80,9 @@ target/
 profile_default/
 ipython_config.py
 
+contract_out.json
+contract_in.json
+
 # pyenv
 .python-version
 
